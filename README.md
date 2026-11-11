@@ -3,7 +3,7 @@
 基于扣子（Coze）平台构建的垂直领域知识库问答智能体：以 20+ 篇脑机接口（BCI）领域原创资料构建专属知识库，面向非专业用户解答 BCI 技术原理、技术路线差异、医疗康复应用与行业最新进展，回答自动标注来源。
 
 **在线体验（商店已发布，免登录直达）**：
-https://www.coze.cn/store/agent/7704714301290250294
+[https://www.coze.cn/store/agent/7704714301290250294](https://www.coze.cn/store/agent/7704714301290250294?bot_id=true&bid=6lt407ips6016)
 
 ## 功能特性
 
@@ -32,7 +32,21 @@ https://www.coze.cn/store/agent/7704714301290250294
 
 ## 截图
 
-> 编排页 / 知识库切片 / 测试对话 / 商店发布页 —— 见 `screenshots/` 目录
+**1. 编排页**——四段式提示词 + 知识库挂载 + 模型配置（深度思考已关闭，推理链不再泄漏到正文）
+
+![](screenshots/1-orchestration.png)
+
+**2. 知识库「BCI领域文章库」**——20 篇领域文档自动分段切片
+
+![](screenshots/2-knowledge.png)
+
+**3. 商店实测对话**——知识库优先回答 + 来源标注 + 技术边界提示
+
+![](screenshots/3-test-chat.png)
+
+**4. 商店发布页**——公开可访问，免登录直达
+
+![](screenshots/4-store.png)
 
 ## 相关作品
 
